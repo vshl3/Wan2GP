@@ -469,6 +469,7 @@ For detailed installation instructions for different GPU generations:
 
 ### Advanced Features
 - **[Deepy Assistant](docs/DEEPY.md)** - Launch Deepy in Gradio, CLI or standalone Web mode; configure tools, media references, saved sessions and phone access
+- **[OpenAI-Compatible Video API](docs/OPENAI_VIDEO_API.md)** - Start the HTTP API and generate videos using asynchronous OpenAI-style requests
 - **[Authentication, HTTPS, and Reverse Proxies](docs/AUTHENTICATION.md)** - Protect web access, configure proxy hosting with `--public-url`, and set up MCP OAuth
 - **[Remote LLMs](docs/REMOTE_LLMS.md)** - Configure Codex, Claude Code, and OpenCode providers for Deepy and Prompt Enhancer
 - **[Loras Guide](docs/LORAS.md)** - Using and managing Loras for customization
